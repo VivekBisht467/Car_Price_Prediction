@@ -1,9 +1,9 @@
-# Car_Price_Prediction
-- This is a machine learning model made using python and flask which predicts the selling price of second-hand cars.
+# House_Price_Prediction
+- This is a machine learning model made using python and flask which predicts the selling price of Houses cars.
 - Do ⭐ the repository, if it helped you in anyway.
 
 # Data source:
-(https://www.kaggle.com/nehalbirla/vehicle-dataset-from-cardekho?select=car+data.csv)
+(https://www.kaggle.com/vikrishnan/boston-house-prices)
 
 # Dependencies:
 
